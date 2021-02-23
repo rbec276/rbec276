@@ -1,4 +1,4 @@
-# Hi, I'm Rebecca. :simple_smile: 
+# Hi, I'm Rebecca. 👋
 
 ### I'm a mechanical engineer looking to break into the field of technical writing!
 
