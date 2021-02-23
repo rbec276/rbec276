@@ -1,14 +1,16 @@
-### Hi, I'm Rebecca. Welcome to my GitHub profile. 
+# Hi, I'm Rebecca. Welcome to my GitHub profile. 
 
-## I'm a mechanical engineer looking to break into the field of technical writing!
+### I'm a mechanical engineer looking to break into the field of technical writing!
 
-My goal is to learn new things and share with others through approachable and effective documentation. 
+My goal is to learn new things and share with others through approachable and effective documentation.\  
 
-I'm currently working on building my tech writing portfolio.
-If you need someone to write documentation for your project, contact me! 
+I'm currently working on building my tech writing portfolio.\ 
+
+If you need someone to write documentation for your project, contact me!\  
+
 :mailbox_with_mail: Email: rem4@umbc.edu
 
-# My focus areas include:
+### My focus areas include:
 
 - API documentation
 - Developer documentation
@@ -18,31 +20,30 @@ If you need someone to write documentation for your project, contact me!
 
 Tools I'm familiar with:
 
+<!-- 
 - Swagger
 - Jekyll
 - Visual Studio Code
 - HTML, CSS, Javascript
 - GitHub
 - GitHub Pages
-- Open API spec
+- Open API spec -->
 
-<img alt="Swagger" src="images/swagger_logo" height="50">
-<img alt="Jekyll" src="images/jekyll_logo" height="50">
-<img alt="Visual Studio Code" src="images/visual_studio_code_icon" height="50">
-<img alt="HTML, CSS, and JS" src="images/html_css_js" height="50">
-<img alt="GitHub" src="images/github_logo" height="50">
-<img alt="GitHub Pages" src="images/github_pages_logo" height="50">
-<img alt="Open API Spec" src="images/open_api_logo" height="50">
+<img alt="Swagger" src="images/swagger_logo.png" height="50">
+<img alt="Jekyll" src="images/jekyll_logo.png" height="50">
+<img alt="Visual Studio Code" src="images/visual_studio_code_icon.png" height="50">
+<img alt="HTML, CSS, and JS" src="images/html_css_js.png" height="50">
+<img alt="GitHub" src="images/github_logo.png" height="50">
+<img alt="GitHub Pages" src="images/github_pages_logo.png" height="50">
+<img alt="Open API Spec" src="images/open_api_logo.png" height="50">
 
-Engineering Tools:
+<!-- Engineering Tools:
 - AutoCAD
 - Revit
 - Creo
-- CostWorks
+- CostWorks -->
 
-Connect with me:
-
-www.linkedin.com/in/rebecca-mcclelland-598b36111
+Connect with me on [LinkedIn](www.linkedin.com/in/rebecca-mcclelland-598b36111)
 
 <!-- Latest Blog Posts:
 INSERT LINK TO GITHUB PAGES TECH WRITING PORTFOLIO? THIS CAN LIST EACH TUTORIAL/POST FROM THE SITE??? -->
