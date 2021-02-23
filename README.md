@@ -1,16 +1,49 @@
-### Hi there 👋
+### Hi, I'm Rebecca. Welcome to my GitHub profile. 
 
-<!--
-**rbec276/rbec276** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm a mechanical engineer looking to break into the field of technical writing!
 
-Here are some ideas to get you started:
+My goal is to learn new things and share with others through approachable and effective documentation. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm currently working on building my tech writing portfolio.
+If you need someone to write documentation for your project, contact me! 
+:mailbox_with_mail: Email: rem4@umbc.edu
+
+# My focus areas include:
+
+- API documentation
+- Developer documentation
+- Tutorials
+- Getting Started guides
+- Reference documentation
+
+Tools I'm familiar with:
+
+- Swagger
+- Jekyll
+- Visual Studio Code
+- HTML, CSS, Javascript
+- GitHub
+- GitHub Pages
+- Open API spec
+
+<img alt="Swagger" src="images/swagger_logo" height="50">
+<img alt="Jekyll" src="images/jekyll_logo" height="50">
+<img alt="Visual Studio Code" src="images/visual_studio_code_icon" height="50">
+<img alt="HTML, CSS, and JS" src="images/html_css_js" height="50">
+<img alt="GitHub" src="images/github_logo" height="50">
+<img alt="GitHub Pages" src="images/github_pages_logo" height="50">
+<img alt="Open API Spec" src="images/open_api_logo" height="50">
+
+Engineering Tools:
+- AutoCAD
+- Revit
+- Creo
+- CostWorks
+
+Connect with me:
+
+www.linkedin.com/in/rebecca-mcclelland-598b36111
+
+<!-- Latest Blog Posts:
+INSERT LINK TO GITHUB PAGES TECH WRITING PORTFOLIO? THIS CAN LIST EACH TUTORIAL/POST FROM THE SITE??? -->
+
