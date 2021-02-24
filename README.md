@@ -28,5 +28,5 @@ I'm currently working on building my tech writing portfolio. If you need someone
     <img alt="Open API Spec" src="images/open_api_logo.png" height="50">
 </p>
 
-Connect with me on [LinkedIn](https://www.linkedin.com/in/rebecca-mcclelland-598b36111)
+Connect with me on [LinkedIn](https://www.linkedin.com/in/rebecca-mcclelland-598b36111).
 
