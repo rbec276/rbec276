@@ -1,8 +1,8 @@
-# Hi, I'm Rebecca.  
+# Hi, I'm Rebecca. 👋
 
 ### I'm a mechanical engineer looking to break into the field of technical writing!
 
-My goal is to learn new things and share with others through approachable and effective documentation.
+My goal is to learn new technologies and share with others through approachable and effective documentation.
 
 I'm currently working on building my tech writing portfolio. If you need someone to write documentation for your project, contact me!
 
@@ -42,7 +42,7 @@ I'm currently working on building my tech writing portfolio. If you need someone
 - Creo
 - CostWorks -->
 
-Connect with me on [LinkedIn](www.linkedin.com/in/rebecca-mcclelland-598b36111)
+Connect with me on [LinkedIn](www.linkedin.com/in/rebecca-mcclelland-598b36111).
 
 <!-- Latest Blog Posts:
 INSERT LINK TO GITHUB PAGES TECH WRITING PORTFOLIO? THIS CAN LIST EACH TUTORIAL/POST FROM THE SITE??? -->
