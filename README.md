@@ -20,7 +20,7 @@ I'm currently working on building my tech writing portfolio. If you need someone
     <img alt="Swagger" src="images/swagger_logo.png" height="50">
     <img alt="Jekyll" src="images/jekyll_logo.png" height="50">
     <img alt="Visual Studio Code" src="images/visual_studio_code_icon.png" height="50">
-    <img alt="HTML and CSS" src="images/html_css_js_logo.png" height="50">
+    <img alt="HTML and CSS" src="images/html_css_logo.png" height="50">
     <img alt="GitHub" src="images/github_logo.png" height="50">
     <img alt="GitHub Pages" src="images/github_pages_logo.png" height="50">
     <img alt="Open API Spec" src="images/open_api_logo.png" height="50">
